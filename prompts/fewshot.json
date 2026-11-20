@@ -1,0 +1,14 @@
+[
+  {
+    "segment_id": "s014",
+    "source": "If reservoir fluids flow into another formation and do not flow to the surface, the result is an underground blowout.",
+    "translation": "Если пластовые флюиды перетекают в другой пласт и не выходят на поверхность, возникает подземный выброс.",
+    "note": "Многозначность в предметной области: blowout в нефтегазе — «выброс», а не «прорыв» или «взрыв»."
+  },
+  {
+    "segment_id": "s021",
+    "source": "A beam pump lifts oil from the reservoir to the surface using a reciprocating sucker-rod system.",
+    "translation": "Глубинный насос штангового типа поднимает нефть из пласта на поверхность с помощью возвратно-поступательной системы насосных штанг.",
+    "note": "Составной термин: beam pump — «глубинный насос штангового типа»; одно английское сочетание разворачивается в многословный русский термин с родительным падежом."
+  }
+]
