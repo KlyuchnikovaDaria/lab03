@@ -1,0 +1,6 @@
+﻿case,segment_id,source,translation,bold_ok,list_ok,code_ok,numbers_ok
+bold,s001,**sedimentary rocks** generated as a result of organic and inorganic matter settling on bottoms of water basins and surface of continents.,**Осадочные породы** образуются в результате осаждения органических и неорганических веществ на дне водных бассейнов и поверхности континентов.,True,True,True,True
+list,s002,"- Seismic exploration goal is to obtain information on rocks on the basis of observed time of wave arrival, amplitude, frequency and form of signal.
+- Rocks saturated with oil or gas, have lower density than the same rocks containing water.","- Цель сейсморазведки заключается в получении информации о породах на основе наблюдаемого времени прихода волны, амплитуды, частоты и формы сигнала.
+- Породы, насыщенные нефтью или газом, имеют меньшую плотность, чем те же породы, содержащие воду.",True,True,True,True
+code,s001,Sedimentary rocks generated as a result of organic and inorganic matter settling on bottoms of water basins and surface of continents. Set `MAX_RATE = 200` in `config/params.yaml`.,Осадочные породы образуются в результате осаждения органических и неорганических веществ на дне водных бассейнов и поверхности континентов. Установите `MAX_RATE = 200` в `config/params.yaml`.,True,True,True,True
